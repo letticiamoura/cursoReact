@@ -39,7 +39,23 @@ Bem-vindo ao repositório que acompanha meu progresso no curso "Do Zero à Maest
    - [x] O que é npm?
    - [x] Estrutura inicial
    - [x] Hello World
-  
+
+# Fundamentos
+
+> No seção de Fundamentos, foi abordado o uso do JSX no React, uma extensão de sintaxe do JavaScript que permite escrever código que se parece com HTML. Também exploramos componentes, que são blocos de construção reutilizáveis ​​no React, podendo ser classes ou funções que retornam elementos JSX. Aprende sobre a composição de componentes em hierarquias para construir interfaces de usuário complexas. Além disso, vi como usar expressões JavaScript em JSX, lidar com eventos e a função render() em componentes de classe. Esses conceitos são fundamentais para a construção de aplicativos React dinâmicos.
+
+## :closed_book:Tópicos
+
+   - [x] Introdução
+   - [x] Conhecendo o JSX
+   - [x] O que é componente?
+   - [x] Criando componente
+   - [x] Template Expressions
+   - [x] Hierarquia de componentes
+   - [x] Eventos
+   - [x] Funções no Evento
+   - [x] Função de renderização
+
 <h2 align="center"> 
     :construction:  Curso em andamento  :construction:
 </h2>
