@@ -24,7 +24,21 @@ Bem-vindo ao repositório que acompanha meu progresso no curso "Do Zero à Maest
 
 # Introdução
   Instalação do Node.js
-  Criando projeto com o React + Vite
+  > https://nodejs.org/en/download
+
+  <br> Criando projeto com o React + Vite
+  > npm create vite@latest
+
+<br> Inicializando projeto
+  > npm install
+
+## :closed_book:Tópicos
+
+   - [x] \(Optional) O que é react?
+   - [x] \(Optional) O que é node.js?
+   - [x] \(Optional) O que é npm?
+   - [x] \(Optional) Estrutura inicial
+   - [x] \(Optional) Hello World
   
 <h2 align="center"> 
     :construction:  Curso em andamento  :construction:
