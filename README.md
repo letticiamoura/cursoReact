@@ -34,11 +34,11 @@ Bem-vindo ao repositório que acompanha meu progresso no curso "Do Zero à Maest
 
 ## :closed_book:Tópicos
 
-   - [x] \(Optional) O que é react?
-   - [x] \(Optional) O que é node.js?
-   - [x] \(Optional) O que é npm?
-   - [x] \(Optional) Estrutura inicial
-   - [x] \(Optional) Hello World
+   - [x] O que é react?
+   - [x] O que é node.js?
+   - [x] O que é npm?
+   - [x] Estrutura inicial
+   - [x] Hello World
   
 <h2 align="center"> 
     :construction:  Curso em andamento  :construction:
