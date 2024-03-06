@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.title {
+  padding: 10px;
+  color: white;
+  font-size: 2em;
+  background-color: black;
+}
+
+.titleColorido {
+  padding: 15px;
+  color: gray;
+  font-size: 2em;
+  background-color: purple;
+}
