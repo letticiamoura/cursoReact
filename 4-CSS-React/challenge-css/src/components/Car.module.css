@@ -1,0 +1,14 @@
+.carContainer {
+  padding: 55px;
+}
+
+.car {
+  height: 50vh;
+  widht: 30vw;
+  border: 3px solid black;
+}
+
+.car img {
+  height: 30vh;
+  widht: 30vw;
+}
