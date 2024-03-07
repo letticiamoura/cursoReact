@@ -42,7 +42,7 @@ Bem-vindo ao repositório que acompanha meu progresso no curso "Do Zero à Maest
 
 # Fundamentos
 
-> No seção de Fundamentos, foi abordado o uso do JSX no React, uma extensão de sintaxe do JavaScript que permite escrever código que se parece com HTML. Também exploramos componentes, que são blocos de construção reutilizáveis ​​no React, podendo ser classes ou funções que retornam elementos JSX. Aprende sobre a composição de componentes em hierarquias para construir interfaces de usuário complexas. Além disso, vi como usar expressões JavaScript em JSX, lidar com eventos e a função render() em componentes de classe. Esses conceitos são fundamentais para a construção de aplicativos React dinâmicos.
+> No seção de Fundamentos, foi abordado o uso do JSX no React, uma extensão de sintaxe do JavaScript que permite escrever código que se parece com HTML. Também exploramos componentes, que são blocos de construção reutilizáveis ​​no React, podendo ser classes ou funções que retornam elementos JSX. Aprende sobre a composição de componentes em hierarquias para construir interfaces de usuário complexas. Além disso, vi como usar expressões JavaScript em JSX, lidar com eventos e a função render() em componentes de classe.
 
 ## :closed_book:Tópicos
 
@@ -55,6 +55,40 @@ Bem-vindo ao repositório que acompanha meu progresso no curso "Do Zero à Maest
    - [x] Eventos
    - [x] Funções no Evento
    - [x] Função de renderização
+         
+# Avaçando No React
+
+> Durante esta Seção, aprendi sobre manipulação de imagens, o uso de hooks como useState, renderização de listas com propriedade key, controle de estado anterior com Previous State, renderização condicional com if e else em JSX, passagem de dados entre componentes com props, uso de fragments para evitar nós adicionais no DOM, e a técnica de State Lift para gerenciar estado compartilhado entre componentes.
+
+## :closed_book:Tópicos
+
+   - [x] Introdução
+   - [x] Imagens no react
+   - [x] O que são hooks?
+   - [x] useState
+   - [x] Renderização de listas
+   - [x] Propiedade key
+   - [x] Previous State
+   - [x] Renderização Condicional
+   - [x] If e else em JSX
+   - [x] Props
+   - [x] Fragments
+   - [x] State Lift
+
+# React & CSS
+
+> Durante esta seção, aprendi diferentes técnicas de estilização usando CSS, como CSS global, CSS de componentes, CSS inline, CSS inline dinâmico, classes dinâmicas e CSS Modules. Essas técnicas são fundamentais para criar interfaces atraentes e funcionais em aplicações React, permitindo uma estilização organizada e eficiente.
+
+## :closed_book:Tópicos
+
+   - [x] Introdução
+   - [x] CSS global
+   - [x] CSS de componentes
+   - [x] CSS Inline
+   - [x] CSS Inline dinâmico
+   - [x] Classes dinâmicas
+   - [x] CSS Modules
+
 
 <h2 align="center"> 
     :construction:  Curso em andamento  :construction:
